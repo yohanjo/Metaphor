@@ -1,4 +1,6 @@
 # Metaphor
+Code for the [metaphor detection paper](http://www.aclweb.org/anthology/P/P16/P16-1021.bib) in ACL 2016: Metaphor Detection with Topic Transition, Emotion and Cognition in Context.
+
 
 ## Run SLDA
 Download https://github.com/yohanjo/YUtils/tree/master/jar/SLDA.jar
