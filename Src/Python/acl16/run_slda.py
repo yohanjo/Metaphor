@@ -30,5 +30,5 @@ subprocess.call(map(str,
                     ["java", "-jar", jar_path,
                      "-t", n_topics, "-a", 0.1, 
                      "-b", 0.001, "-g", 1, "-d", data_dir,
-                     "-data", train_filename, "-tok", "-i", n_iters, 
+                     "-data", test_filename, "-tok", "-i", n_iters, 
                      "-log", 100, "-model", model_path]))
