@@ -2,7 +2,7 @@
 Run SLDA.
 
 @author: Yohan
-@version: June 22, 2017
+@version: July 24, 2017
 '''
 import subprocess
 
